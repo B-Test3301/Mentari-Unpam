@@ -1,0 +1,58 @@
+name: Update Release 2.0
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  update-release:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Setup Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Get current date
+        id: date
+        run: echo "date=$(date +'%d/%m/%Y')" >> $GITHUB_OUTPUT
+
+      - name: Update tag 2.0 to latest commit
+        run: |
+          git tag -f "2.0"
+          git push origin -f "2.0"
+
+      - name: Update Release with Custom Description
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: "2.0"
+          name: "Mentari v2.0"
+          body: |
+            Update:
+
+            • hiding discussion forums that have no topics
+            • added a notification feature for lecturer replies  
+            • added update notifications
+            • can select more than one prompt format in the chatbot
+
+            Small update:
+
+            • fixed an error in the extension
+
+            ${{ steps.date.outputs.date }} - User Status Fixed.
+
+            ---
+            *Auto-updated: ${{ github.event.head_commit.timestamp }}*
+            *Commit: ${{ github.sha }}*
+          draft: false
+          prerelease: false
+          generate_release_notes: false
