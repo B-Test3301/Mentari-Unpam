@@ -61,7 +61,7 @@ Kamu punya ide untuk fitur baru? Silakan buka [Issue baru](https://github.com/B-
 
 ## 🛡 Lisensi
 
-Proyek ini menggunakan lisensi **MIT License** — lihat file `LICENSE` untuk detail lengkap.
+Proyek ini menggunakan lisensi **MIT License** — lihat file [MIT License](LICENSE) untuk detail lengkap.
 
 ---
 
