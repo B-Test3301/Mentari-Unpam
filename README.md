@@ -1,6 +1,6 @@
 # MENTARI — Manajemen Terpadu Pembelajaran Daring
 
-MENTARI (Manajemen Terpadu Pembelajaran Daring) adalah platform pembelajaran digital yang dirancang untuk menggantikan **mentari.unpam.ac.id**.  
+MENTARI (Manajemen Terpadu Pembelajaran Daring) adalah extension pembelajaran digital yang dirancang untuk memudahkan pengguna **mentari.unpam.ac.id**.  
 Ekstensi browser ini memperkaya pengalaman belajar daring dengan berbagai fitur tambahan yang meningkatkan produktivitas dan efisiensi bagi civitas akademika Universitas Pamulang.
 
 ---
@@ -35,7 +35,7 @@ Ekstensi browser ini memperkaya pengalaman belajar daring dengan berbagai fitur 
 6. Klik **Load unpacked**, lalu pilih folder hasil ekstraksi  
 7. Ekstensi siap digunakan
 
-### Untuk Browser Mises (iOS / Android)
+### Untuk Mobile Browser Mises (iOS / Android)
 1. Unduh Mises Browser dari App Store atau Google Play Store  
 2. Buka Mises Browser  
 3. Ketuk menu (tiga titik) → **Extensions**  
