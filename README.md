@@ -1,42 +1,42 @@
 # MENTARI — Manajemen Terpadu Pembelajaran Daring
 
 MENTARI (Manajemen Terpadu Pembelajaran Daring) adalah platform pembelajaran digital yang dirancang untuk menggantikan **e-learning.unpam.ac.id**.  
-Ekstensi browser ini memperkaya pengalaman belajar daring dengan berbagai fitur tambahan yang meningkatkan produktivitas civitas akademika Universitas Pamulang.
+Ekstensi browser ini memperkaya pengalaman belajar daring dengan berbagai fitur tambahan yang meningkatkan produktivitas dan efisiensi bagi civitas akademika Universitas Pamulang.
 
 ---
 
 ## 🚀 Fitur Utama
 
 ### Mentari (Ekstensi Browser)
-- **Pelacakan Forum Diskusi** — Memantau forum diskusi yang diunggah dosen dan tugas mahasiswa  
-- **Pengelompokan Mahasiswa** — Membagi mahasiswa ke dalam kelompok acak sesuai kebutuhan  
-- **Notifikasi** — Menampilkan notifikasi balasan dosen pada forum diskusi  
-- **Pengaturan (Settings)** — Ganti API key, cek pembaruan Mentari, aktifkan fitur Gemini Assistant atau Auto Finish Quiz  
+- **Pelacakan Forum Diskusi** — Memantau aktivitas forum diskusi yang diunggah dosen serta tugas mahasiswa secara real-time  
+- **Pengelompokan Mahasiswa** — Membagi mahasiswa ke dalam kelompok secara otomatis dan acak sesuai kebutuhan pembelajaran  
+- **Notifikasi** — Memberikan notifikasi instan untuk balasan dosen pada forum diskusi  
+- **Pengaturan (Settings)** — Konfigurasi API key, pemeriksaan pembaruan Mentari, serta aktivasi fitur Gemini Assistant dan Auto Finish Quiz  
 
 ### Quiz Helper
-- **Jawaban Otomatis** — Menjawab semua soal quiz secara otomatis tanpa intervensi manual dalam waktu kurang dari 10 detik  
+- **Jawaban Otomatis** — Menjawab seluruh soal kuis secara otomatis dengan akurasi tinggi dalam waktu kurang dari 10 detik  
 
 ### Gemini Assistant
-- **Chatbot AI** — Asisten berbasis AI menggunakan `gemini-2.0-flash-thinking`  
-- **Format Prompt** — Berbagai format respons sesuai kebutuhan  
-- **Paste Questions** — Ekstraksi otomatis pertanyaan dari dosen atau soal kuis  
-- **Copy To Textarea** — Memindahkan jawaban AI langsung ke area teks balasan  
+- **Chatbot AI** — Asisten cerdas berbasis model `gemini-2.0-flash-thinking`  
+- **Format Respons Fleksibel** — Berbagai format respons yang dapat disesuaikan dengan kebutuhan pengguna  
+- **Ekstraksi Pertanyaan Otomatis** — Mendeteksi dan mengekstrak pertanyaan dari dosen atau soal kuis secara otomatis  
+- **Integrasi Balasan** — Memindahkan jawaban AI langsung ke area teks balasan dengan satu klik  
 
 ---
 
 ## 📥 Download & Instalasi
 
 ### Untuk Windows / macOS (Chrome, Edge, Brave)
-1. Unduh file ekstensi berformat `.zip`  
-2. Ekstrak file `.zip` ke folder lokal  
+1. Unduh file ekstensi dalam format `.zip`  
+2. Ekstrak file `.zip` ke folder lokal di perangkat Anda  
 3. Buka browser berbasis Chromium  
-4. Masuk ke `chrome://extensions/`  
+4. Akses `chrome://extensions/`  
 5. Aktifkan mode **Developer / Pengembang**  
-6. Klik **Load unpacked**, lalu pilih folder hasil ekstrak  
+6. Klik **Load unpacked**, lalu pilih folder hasil ekstraksi  
 7. Ekstensi siap digunakan
 
 ### Untuk Browser Mises (iOS / Android)
-1. Unduh Mises Browser dari App Store atau Play Store  
+1. Unduh Mises Browser dari App Store atau Google Play Store  
 2. Buka Mises Browser  
 3. Ketuk menu (tiga titik) → **Extensions**  
 4. Aktifkan mode **Developer**  
@@ -44,26 +44,29 @@ Ekstensi browser ini memperkaya pengalaman belajar daring dengan berbagai fitur 
 6. Pilih file ekstensi Mentari `.zip`  
 7. Refresh halaman Mentari  
 
+### Versi Android APK (Coming Soon)
+Pengembangan versi native Android sedang dalam tahap finalisasi. Pantau terus pembaruan di repositori ini untuk informasi lebih lanjut.
+
 ---
 
 ## ❓ FAQ
 
 **Apakah ekstensi ini aman digunakan?**  
-Ya — ekstensi ini berjalan di sisi klien (client-side), **tidak mengirim data pribadi ke server eksternal**.
+Ya — ekstensi ini berjalan sepenuhnya di sisi klien (client-side) dan **tidak mengirimkan data pribadi pengguna ke server eksternal**.
 
 **Bagaimana cara memperbarui ke versi terbaru?**  
-Kunjungi repositori GitHub ini secara berkala. Untuk memperbarui, hapus ekstensi lama dan instal versi baru dengan langkah instalasi di atas.
+Pantau secara berkala repositori GitHub ini. Untuk memperbarui, hapus ekstensi lama dan instal ulang versi terbaru dengan mengikuti langkah instalasi di atas.
 
 **Fitur apa saja yang akan datang?**  
-Kamu punya ide untuk fitur baru? Silakan buka [Issue baru]([https://github.com/B-Test3301/dispute/issues]) dan sampaikan idemu!
+Kami terbuka terhadap masukan dan ide fitur baru. Silakan buka [Issue baru](https://github.com/B-Test3301/dispute/issues) dan sampaikan saran Anda!
 
 ---
 
 ## 🛡 Lisensi
 
-Proyek ini menggunakan lisensi **MIT License** — lihat file [MIT License](LICENSE) untuk detail lengkap.
+Proyek ini dilisensikan di bawah **MIT License**. Untuk informasi lengkap, lihat file [LICENSE](LICENSE).
 
 ---
 
-Made with ❤️ untuk mahasiswa UNPAM  
-© 2025 B-Test3301  
+Dikembangkan dengan ❤️ untuk kemajuan akademik mahasiswa UNPAM  
+© 2025 B-Test3301
