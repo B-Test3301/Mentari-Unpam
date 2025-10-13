@@ -1,6 +1,6 @@
 # MENTARI — Manajemen Terpadu Pembelajaran Daring
 
-MENTARI (Manajemen Terpadu Pembelajaran Daring) adalah platform pembelajaran digital yang dirancang untuk menggantikan **e-learning.unpam.ac.id**.  
+MENTARI (Manajemen Terpadu Pembelajaran Daring) adalah platform pembelajaran digital yang dirancang untuk menggantikan **mentari.unpam.ac.id**.  
 Ekstensi browser ini memperkaya pengalaman belajar daring dengan berbagai fitur tambahan yang meningkatkan produktivitas dan efisiensi bagi civitas akademika Universitas Pamulang.
 
 ---
