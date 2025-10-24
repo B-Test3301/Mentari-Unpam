@@ -25,8 +25,8 @@ Ekstensi browser ini memperkaya pengalaman belajar daring dengan berbagai fitur 
 ---
 
 ## 🔔 New Update V2.0
-- **Notifikasi** tidak hanya balasan dosen ditambahkan juga balasan mahasiswa
-- **Pelacakan Forum Diskusi** Menghapus popup pertemuan yang sudah dikerjakan dan hanya menampilkan pertemuan yang belum dikerjakan
+- **Notifikasi** — tidak hanya balasan dosen ditambahkan juga balasan mahasiswa
+- **Pelacakan Forum Diskusi** — Menghapus popup pertemuan yang sudah dikerjakan dan hanya menampilkan pertemuan yang belum dikerjakan
 - **Tunggu Update berikutnya** 👋
 
 ---
