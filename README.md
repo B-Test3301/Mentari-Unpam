@@ -29,6 +29,8 @@ Ekstensi browser ini memperkaya pengalaman belajar daring dengan berbagai fitur 
 - **Pelacakan Forum Diskusi** Menghapus popup pertemuan yang sudah dikerjakan dan hanya menampilkan pertemuan yang belum dikerjakan
 - **Tunggu Update berikutnya** 👋
 
+---
+
 ## 📥 Download & Instalasi
 
 ### Untuk Windows / macOS (Chrome, Edge, Brave)
