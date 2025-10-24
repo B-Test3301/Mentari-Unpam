@@ -10,7 +10,7 @@ Ekstensi browser ini memperkaya pengalaman belajar daring dengan berbagai fitur 
 ### Mentari (Ekstensi Browser)
 - **Pelacakan Forum Diskusi** — Memantau aktivitas forum diskusi yang diunggah dosen serta tugas mahasiswa secara real-time  
 - **Pengelompokan Mahasiswa** — Membagi mahasiswa ke dalam kelompok secara otomatis dan acak sesuai kebutuhan pembelajaran  
-- **Notifikasi** — Memberikan notifikasi instan untuk balasan dosen pada forum diskusi  
+- **Notifikasi** — Memberikan notifikasi instan untuk balasan dosen pada forum diskusi
 - **Pengaturan (Settings)** — Konfigurasi API key, pemeriksaan pembaruan Mentari, serta aktivasi fitur Gemini Assistant dan Auto Finish Quiz  
 
 ### Quiz Helper
@@ -23,6 +23,11 @@ Ekstensi browser ini memperkaya pengalaman belajar daring dengan berbagai fitur 
 - **Integrasi Balasan** — Memindahkan jawaban AI langsung ke area teks balasan dengan satu klik  
 
 ---
+
+## 🔔 New Update V2.0
+- **Notifikasi** tidak hanya balasan dosen ditambahkan juga balasan mahasiswa
+- **Pelacakan Forum Diskusi** Menghapus popup pertemuan yang sudah dikerjakan dan hanya menampilkan pertemuan yang belum dikerjakan
+- **Tunggu Update berikutnya** 👋
 
 ## 📥 Download & Instalasi
 
@@ -43,9 +48,6 @@ Ekstensi browser ini memperkaya pengalaman belajar daring dengan berbagai fitur 
 5. Klik “+ (from .zip/.crx/.user.js)”  
 6. Pilih file ekstensi Mentari `.zip`  
 7. Refresh halaman Mentari  
-
-### Versi Android APK (Coming Soon)
-Pengembangan versi native Android sedang dalam tahap finalisasi. Pantau terus pembaruan di repositori ini untuk informasi lebih lanjut.
 
 ---
 
