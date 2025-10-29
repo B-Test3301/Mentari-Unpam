@@ -1,4 +1,5 @@
-# MENTARI — Manajemen Terpadu Pembelajaran Daring
+# MENTARI Manajemen Terpadu Pembelajaran Daring
+<img width="845" height="721" alt="MentariLogo-DfuWb4z9 (1)" src="https://github.com/user-attachments/assets/6ecebb97-d284-400b-8b43-af36155e1888" />
 
 MENTARI (Manajemen Terpadu Pembelajaran Daring) adalah extension pembelajaran digital yang dirancang untuk memudahkan pengguna **mentari.unpam.ac.id**.  
 Ekstensi browser ini memperkaya pengalaman belajar daring dengan berbagai fitur tambahan yang meningkatkan produktivitas dan efisiensi bagi civitas akademika Universitas Pamulang.
